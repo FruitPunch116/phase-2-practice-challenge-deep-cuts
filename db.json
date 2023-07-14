@@ -1,39 +1,74 @@
 {
-    "tracks": [
-        {
-            "id": 1,
-            "title": "Givenchy",
-            "artist": "Lonely Boy",
-            "BPM": 122,
-            "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvMTUxMzAyMi9pbWFnZS9rODlZRzAxclh0VXkvY2djZmd4ZmcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImZpbGwiLCJ3aWR0aCI6MjQwLCJoZWlnaHQiOjI0MH19fQ==?t=1638295080242"
-        },
-        {
-            "id": 2,
-            "title": "Move Different",
-            "artist": "Buddha Vybez",
-            "BPM": 129,
-            "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNDkxNTQ2L2ltYWdlL0NMeFd0R09QaEM0Ty9tb3ZlZGlmZmVyZW50LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJmaWxsIiwid2lkdGgiOjI0MCwiaGVpZ2h0IjoyNDB9fX0=?t=1639408815480"
-        },
-        {
-            "id": 3,
-            "title": "Sometimes",
-            "artist": "SOGIMURA",
-            "BPM": 142,
-            "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNTE1ODEyL2ltYWdlL2NUZUdRMlBFcUFGOS8yNzM0NjUzODM0NjcwOTg0MDgyMzA5NjE2NTU2OTU1MjkzMTY0ODMwNTE2bi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1644939565512"
-        },
-        {
-            "id": 4,
-            "title": "FREAK",
-            "artist": "Fantom",
-            "BPM": 164,
-            "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNTU2MzcyL2ltYWdlLzZFZGVoMXJJeXJJTy9mcmVhay5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1637065756846"
-        },
-        {
-            "id": 5,
-            "title": "Yichang",
-            "artist": "beefy",
-            "BPM": 107,
-            "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvODI0NDExL2ltYWdlL0EzRkRJQjlHQkJTRC8yMDIyMDEyOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1643380284285"
-        }
-    ]
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Givenchy",
+      "artist": "Lonely Boy",
+      "BPM": 122,
+      "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvMTUxMzAyMi9pbWFnZS9rODlZRzAxclh0VXkvY2djZmd4ZmcuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImZpbGwiLCJ3aWR0aCI6MjQwLCJoZWlnaHQiOjI0MH19fQ==?t=1638295080242"
+    },
+    {
+      "id": 2,
+      "title": "Move Different",
+      "artist": "Buddha Vybez",
+      "BPM": 129,
+      "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNDkxNTQ2L2ltYWdlL0NMeFd0R09QaEM0Ty9tb3ZlZGlmZmVyZW50LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJmaWxsIiwid2lkdGgiOjI0MCwiaGVpZ2h0IjoyNDB9fX0=?t=1639408815480"
+    },
+    {
+      "id": 3,
+      "title": "Sometimes",
+      "artist": "SOGIMURA",
+      "BPM": 142,
+      "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNTE1ODEyL2ltYWdlL2NUZUdRMlBFcUFGOS8yNzM0NjUzODM0NjcwOTg0MDgyMzA5NjE2NTU2OTU1MjkzMTY0ODMwNTE2bi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1644939565512"
+    },
+    {
+      "id": 4,
+      "title": "FREAK",
+      "artist": "Fantom",
+      "BPM": 164,
+      "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvNTU2MzcyL2ltYWdlLzZFZGVoMXJJeXJJTy9mcmVhay5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1637065756846"
+    },
+    {
+      "id": 5,
+      "title": "Yichang",
+      "artist": "beefy",
+      "BPM": 107,
+      "image": "https://cdn5.beatstars.com/eyJidWNrZXQiOiJidHMtY29udGVudCIsImtleSI6InVzZXJzL3Byb2QvODI0NDExL2ltYWdlL0EzRkRJQjlHQkJTRC8yMDIyMDEyOC5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiZmlsbCIsIndpZHRoIjoyNDAsImhlaWdodCI6MjQwfX19?t=1643380284285"
+    },
+    {
+      "title": "Miss You",
+      "artist": "Oliver tree",
+      "BPM": "145",
+      "image": "https://www.electrowow.net/wp-content/uploads/2022/12/Oliver-Tree-Miss-You.jpg",
+      "id": 6
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "BPM": "81",
+      "image": "https://production-digtracks-com.s3-ap-northeast-1.amazonaws.com/uploads/cover_art/file/33266/medium_400_coverart.jpg",
+      "id": 7
+    },
+    {
+      "title": "Lemonade",
+      "artist": "Internet Money ft (various artist)",
+      "BPM": "140",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8c/Internet_Money_-_Lemonade.png",
+      "id": 8
+    },
+    {
+      "title": "Boy's a Liar",
+      "artist": "Pink Pantheress & Ice Spice",
+      "BPM": "133",
+      "image": "https://i1.sndcdn.com/artworks-3q0McmUGWtFoRf8M-TaPyzQ-t500x500.jpg",
+      "id": 9
+    },
+    {
+      "title": "Hot((REMIX)",
+      "artist": "Youngh thug ft Tavis Scott, GUNNA",
+      "BPM": "112",
+      "image": "https://i.scdn.co/image/ab67616d0000b273540db9d6bae7e57baecf8b49",
+      "id": 10
+    }
+  ]
 }
