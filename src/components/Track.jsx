@@ -1,16 +1,15 @@
 import React from 'react'
 import defaultVinyl from '../assets/vinyl_PNG111.png'
 
-function Track() {
+function Track({title, artist, image, BPM}) {
   return (
     <tr className="table-row">
         <td className="row-image">
-            {/* you can use the default image if no image is given */}
-            <img src={defaultVinyl} alt="title" />
+            {image ? <img src={image} alt="title" /> : <img src={defaultVinyl} alt="title" />}
         </td>
-        <td className="row-title">TITLE</td>
-        <td>ARTIST</td>
-        <td>BPM</td>
+        <td className="row-title">{title}  </td>
+        <td>{artist}</td>
+        <td>{BPM}</td>
     </tr>
   )
 }
